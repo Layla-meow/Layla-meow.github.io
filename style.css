@@ -1,0 +1,47 @@
+p{
+
+color:rgb(73, 21, 133);
+font-size: large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+body{
+color: black;
+background-color:lightblue;
+text-align: center;
+}
+
+img{
+
+width: 303px;
+border: 10px;
+
+}
+
+div{
+
+max-width:400px;
+margin:auto; 
+}
+.agdasima-regular {
+    font-family: "Agdasima", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .agdasima-bold {
+    font-family: "Agdasima", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(22, 59, 114)
+  
+}
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(22, 59, 114);
+}
